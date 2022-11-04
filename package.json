@@ -43,7 +43,6 @@
     ]
   },
   "devDependencies": {
-    "@synerise/ds-button": "^0.17.9",
     "@types/styled-components": "^5.1.26"
   }
 }
