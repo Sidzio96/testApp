@@ -1,11 +1,12 @@
 import React from 'react';
 import './App.css';
-import NewApp from "./newApp/newApp";
+import AutocompleteWithFetch from './AutocompleteWithFetch/AutocompleteWithFetch';
+
 
 function App() {
   return (
     <div className="App">
-     <NewApp/>
+     <AutocompleteWithFetch/>
     </div>
   );
 }
